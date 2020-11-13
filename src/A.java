@@ -5,5 +5,5 @@ public class A {
 
     private String name;
     private String age;
-
+    private String gender;
 }
